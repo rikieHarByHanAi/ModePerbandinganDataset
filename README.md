@@ -23,4 +23,5 @@ Ini menggunakan algoritma BAB 3 namun menggunakan 3 open dataset yang ada dan me
    
     pip install kaggle torch scikit-learn seaborn pandas matplotlib psutil
     kaggle.json sudah ada di /home/rikie/.kaggle/kaggle.json
+    
 =============================================================
